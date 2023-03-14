@@ -1,2 +1,2 @@
-# curriculo
-Criar um currículo para a aula do Ettore
+# Nome;           |  # Idade;  
+ - João Gabriel   |  - 23 anos
