@@ -23,10 +23,10 @@ Rua Unimar Aluno, 123B - São Paulo
 ## Formação acadêmica:
 | Formação | Ano de formação |
 |----------|-----------------|
-| Ensino médio                          |     2016        |
-| Analise e Desenvolvimento de Sistemas |     2026        |
+| Ensino médio                          | 2016  |
+| Analise e Desenvolvimento de Sistemas | 2026  |
 
 ## Curso(s) complementares:
-| Curso                      | Ano de formação |
-|---------------------------:|-----------------|
-| Anlista de Suporte Tecnico |   2018          |
+| Curso | Ano de formação |
+|-------|-----------------|
+| Anlista de Suporte Tecnico | 2018 |
