@@ -9,7 +9,7 @@
 ## Brasileiro | Solteiro | 23 Anos
 
 ---
-# Informações pessoais;
+# Informações pessoais:
 ## E-mail;
  joao.pieraco@gmail.com
 
