@@ -21,6 +21,10 @@ Rua Unimar Aluno, 123B - São Paulo
 
  ---
 ## Formação acadêmica:
-Ensino médio completo
+|             Formação                  | Ano de formação |
+|--------------------------------------:|-----------------|
+| Ensino médio                          |     2016        |
+| Analise e Desenvolvimento de Sistemas |     2026        |
 
-Cursando Análise e Desenvolvimento de Sistemas (A.D.S.) - 1° Ano.
+## Curso(s) complementares:
+Analista de Suporte Tecnico (A.S.T.) - 2 anos.
