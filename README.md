@@ -21,8 +21,8 @@ Rua Unimar Aluno, 123B - São Paulo
 
  ---
 ## Formação acadêmica:
-|             Formação                  | Ano de formação |
-|--------------------------------------:|-----------------|
+| Formação | Ano de formação |
+|---------:|-----------------|
 | Ensino médio                          |     2016        |
 | Analise e Desenvolvimento de Sistemas |     2026        |
 
