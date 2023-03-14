@@ -30,3 +30,22 @@ Rua Unimar Aluno, 123B - São Paulo
 | Curso | Ano de formação |
 |:-----:|:---------------:|
 | Anlista de Suporte Tecnico | 2018 |
+
+## Experiências:
+| Experiência | Tempo de experiência |
+|:-----------:|:--------------------:|
+| Domínio | 4 anos |
+| SSL | 4 anos |
+| Marketplace | 4 anos|
+| Intemediadores de pagamento | 4 anos |
+| Gateways de pagamento | 4 anos |
+| Gateways de frete | 4 anos |
+| Postman | 4 anos |
+| Google | 4 anos |
+| Facebook | 4 anos |
+| ERP | 4 anos |
+| API | 4 anos |
+| Gitlab | 4 anos |
+| PYTHON | 3 semanas |
+| UX | 3 semanas |
+| Focal de coordenação | 2 anos 6 meses |
