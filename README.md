@@ -36,6 +36,10 @@ Rua Unimar Aluno, 123B - São Paulo
 |:-----------:|:--------------------:|
 | Domínio | 4 anos |
 | SSL | 4 anos |
+| Balance | 4 anos |
+| XEAMS | 4 anos |
+| Postfix | 4 anos |
+| Relay | 4 anos |
 | Marketplace | 4 anos|
 | Intemediadores de pagamento | 4 anos |
 | Gateways de pagamento | 4 anos |
