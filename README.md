@@ -21,5 +21,6 @@ Rua Unimar Aluno, 123B - São Paulo
 
  ---
 ## Formação acadêmica:
-Ensino médio completo.
+Ensino médio completo
+
 Cursando Análise e Desenvolvimento de Sistemas (A.D.S.)
