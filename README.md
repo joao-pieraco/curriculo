@@ -27,4 +27,6 @@ Rua Unimar Aluno, 123B - São Paulo
 | Analise e Desenvolvimento de Sistemas |     2026        |
 
 ## Curso(s) complementares:
-Analista de Suporte Tecnico (A.S.T.) - 2 anos.
+| Curso                      | Ano de formação |
+|---------------------------:|-----------------|
+| Anlista de Suporte Tecnico |   2018          |
