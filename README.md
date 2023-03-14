@@ -46,6 +46,6 @@ Rua Unimar Aluno, 123B - São Paulo
 | ERP | 4 anos |
 | API | 4 anos |
 | Gitlab | 4 anos |
+| Focal de coordenação | 2 anos 6 meses |
 | PYTHON | 3 semanas |
 | UX | 3 semanas |
-| Focal de coordenação | 2 anos 6 meses |
