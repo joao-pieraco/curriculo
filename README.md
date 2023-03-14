@@ -10,6 +10,10 @@
 
 ---
 # Informações pessoais:
+| --------:|------------------------------------|
+|   E-mail | joao.pieraco@gmail.com             |
+| Endereço | Rua Unimar Aluno, 123B - São Paulo |
+| Telefone | (14) 9 9999-9999                   |
 ## E-mail
 joao.pieraco@gmail.com
 
@@ -23,4 +27,7 @@ Rua Unimar Aluno, 123B - São Paulo
 ## Formação acadêmica:
 Ensino médio completo
 
-Cursando Análise e Desenvolvimento de Sistemas (A.D.S.) - 1° Ano.
+Cursando Análise e Desenvolvimento de Sistemas (A.D.S.) - 1° Ano
+
+## Cursos complementares:
+Analista de Suporte Tecnico - 2 Anos
