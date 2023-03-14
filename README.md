@@ -10,13 +10,13 @@
 
 ---
 # Informações pessoais:
-## E-mail;
+## E-mail
 joao.pieraco@gmail.com
 
-## Endereço;
+## Endereço
 Rua Unimar Aluno, 123B - São Paulo
 
-## Telefone;
+## Telefone
 (14) 9 9999-9999
 
  ---
