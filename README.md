@@ -45,3 +45,22 @@ Rua Unimar Aluno, 123B - São Paulo
 | Gateways de pagamento | 4 anos | UX | 3 semanas |
 | Gateways de frete | 4 anos | Padrinho de novos colaboradores | 1 ano e 6 meses |
 
+---
+# Objetivos
+
+Finalizar minha faculdade com o obejtivo de e aquirir conhecimento e experíências sobre a área, afim conseguir encontrar minha verdadeira paixão.
+
+## Meus interesses são:
+- Frontend
+- Backend
+- Infra
+
+## Linguagens que tenho interesse em aprender:
+- PYTHON
+- PHP
+- JAVA
+- HTML
+- CSS
+- JAVASCRIPT
+
+---
