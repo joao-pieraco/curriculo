@@ -33,7 +33,7 @@ Rua Unimar Aluno, 123B - São Paulo
 
 ## Experiências:
 | Experiência | Experiência | Tempo de experiência | Tempo de experiência |
-|:-----------:|:--------------------:|:------------:|
+|:-----------:|:--------------------:|:------------:|:-------------:|
 | Domínio | 4 anos | Postman | 4 anos |
 | SSL | 4 anos | Google | 4 anos |
 | Balance | 4 anos | Facebook | 4 anos |
