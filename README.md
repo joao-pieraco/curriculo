@@ -32,24 +32,35 @@ Rua Unimar Aluno, 123B - São Paulo
 | Anlista de Suporte Tecnico | 2018 |
 
 ## Experiências:
-| Experiência | Tempo de experiência |
-|:-----------:|:--------------------:|
-| Domínio | 4 anos |
-| SSL | 4 anos |
-| Balance | 4 anos |
-| XEAMS | 4 anos |
-| Postfix | 4 anos |
-| Relay | 4 anos |
-| Marketplace | 4 anos|
-| Intemediadores de pagamento | 4 anos |
-| Gateways de pagamento | 4 anos |
-| Gateways de frete | 4 anos |
-| Postman | 4 anos |
-| Google | 4 anos |
-| Facebook | 4 anos |
-| ERP | 4 anos |
-| API | 4 anos |
-| Gitlab | 4 anos |
-| Focal de coordenação | 2 anos 6 meses |
-| PYTHON | 3 semanas |
-| UX | 3 semanas |
+| Experiência | Tempo de experiência | Experiência | Tempo de experiência |
+|:-----------:|:--------------------:|:------------:|:-------------:|
+| Domínio | 4 anos | Postman | 4 anos |
+| SSL | 4 anos | Google | 4 anos |
+| Balance | 4 anos | Facebook | 4 anos |
+| XEAMS | 4 anos | ERP | 4 anos |
+| Postfix | 4 anos | API | 4 anos |
+| Relay | 4 anos | Gitlab | 1 ano |
+| Marketplace | 4 anos | Focal de coordenação | 2 anos 6 meses |
+| Intemediadores de pagamento | 4 anos | PYTHON | 3 semanas |
+| Gateways de pagamento | 4 anos | UX | 3 semanas |
+| Gateways de frete | 4 anos | Padrinho de novos colaboradores | 1 ano e 6 meses |
+
+---
+# Objetivos
+
+Finalizar minha faculdade com o obejtivo de e aquirir conhecimento e experíências sobre a área, afim conseguir encontrar minha verdadeira paixão.
+
+## Meus interesses são:
+- Frontend
+- Backend
+- Infra
+
+## Linguagens que tenho interesse em aprender:
+- PYTHON
+- PHP
+- JAVA
+- HTML
+- CSS
+- JAVASCRIPT
+
+---
