@@ -32,7 +32,7 @@ Rua Unimar Aluno, 123B - São Paulo
 | Anlista de Suporte Tecnico | 2018 |
 
 ## Experiências:
-| Experiência | Experiência | Tempo de experiência | Tempo de experiência |
+| Experiência | Tempo de experiência | Experiência | Tempo de experiência |
 |:-----------:|:--------------------:|:------------:|:-------------:|
 | Domínio | 4 anos | Postman | 4 anos |
 | SSL | 4 anos | Google | 4 anos |
@@ -44,11 +44,4 @@ Rua Unimar Aluno, 123B - São Paulo
 | Intemediadores de pagamento | 4 anos | PYTHON | 3 semanas |
 | Gateways de pagamento | 4 anos | UX | 3 semanas |
 | Gateways de frete | 4 anos | Padrinho de novos colaboradores | 1 ano e 6 meses |
-
-
-
-
-
-
-
 
